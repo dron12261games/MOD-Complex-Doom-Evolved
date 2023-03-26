@@ -36,20 +36,20 @@ To run the patch, load it after the main mod and type in the console `language r
 - [x] The upgrade animation for the Assault Shotgun can now be skipped.
 - [x] Now portable weapon upgrades are not picked up if the player already has that upgrade installed on the weapon.
 - [x] Reworked hotkeys and brought to an adequate state (their number was reduced from 7 to 3):
-	- Alternate fire of weapon enhancements is now on RMB;
-	- Railgun sight is now on the RMB;
-	- Quick Grenade Throw and Quick Melee for normal player and terminator now on the same key;
-	- Reload now on the R key (guns without alternate fire mode also on the RMB).
+	- Alternate fire of weapon enhancements is now on `RMB`;
+	- Railgun sight is now on the `RMB`;
+	- `Quick Grenade Throw` and `Quick Melee` for normal player and terminator now on the same key;
+	- Reload now on the `R` key (guns without alternate fire mode also on the `RMB`).
 - [x] Rebalancing the revolver.
 - [x] Added the ability to configure in detail the spawn types of mobs. You can disable the type of monster to prevent his spawn in the future on the map. If, for example, all of the mobs, replacing a single vanilla will be disabled, then in place of a vanilla monster just nobody will spawn, with softlock on maps on the type MAP07, E1M8, E2M8, E3M8, etc. will not happen.
 - [x] Changed the color palette of the menu.
 - [x] Fixed bug with incomplete reloading of the gun with an empty clip.
 - [x] The grenade and mine on slot 1 as separate weapons have been brought to appropriate condition.
 - [x] Added 4 new box types, more powerful loot from which falls with a rarer chance:
-	- Weapon Box (Orange);
-	- Item Box (Green);
-	- Box with PowerUPs (Blue);
-	- Perks Box (White).
+	- `Weapon Box` (Orange);
+	- `Item Box` (Green);
+	- `PowerUPs Box` (Blue);
+	- `Perks Box` (White).
 - [x] The boxes are now illuminated.
 - [x] Now all bullets fly at the level of the crosshair, not below. Now there will be no situations where you can't shoot from a high window or balcony.
 
