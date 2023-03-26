@@ -6,9 +6,9 @@
 ### ⚠️WARNING!⚠️ This is a fork, not the original mod I built. The original (Complex Doom v27b2), authored by Deadalus, can be found [here](https://forum.zdoom.org/viewtopic.php?t=58535).
 ### ⚠️WARNING!⚠️The fork is still in development, so it may behave erratically at times. Keep this in mind.
 
-## Download:
-- [Complex Doom Evolved v1](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved/releases/download/v1/Complex_Doom_Evolved_v1.pk3)
-- [Russian Language patch for Zandronum](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved/releases/download/v1/CDE_v1_RUS_Patch_for_Zandronum.pk3)
+## Download (**⚠️UNSTABLE⚠️**):
+- [Complex Doom Evolved v0.1](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved/releases/download/v0.1/Complex_Doom_Evolved_v0.1.pk3)
+- [Russian Language patch v0.1 for Zandronum](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/MOD-Complex-Doom-Evolved/releases/download/v0.1/CDE_v0.1_RUS_Patch_for_Zandronum.pk3)
 
 To run the patch, load it after the main mod and type in the console `language ru`.
 
