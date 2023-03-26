@@ -1,5 +1,5 @@
 //==========================================
-// Changes from EVOLVED v1 by DRON12261
+// Changes from EVOLVED v0.1 by DRON12261
 //==========================================
 [EN]
 (+) Fixed bug with incomplete reloading of pistol with an empty clip.

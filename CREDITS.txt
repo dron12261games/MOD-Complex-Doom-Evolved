@@ -18,7 +18,7 @@
 ================================================================================
 [EN]
 The sprites, sounds and code(only by DRON12261) are free to use providing that 
-you use proper credit (please check the CREDITS section) where it is due.
+you use proper credit (please check the CREDITS section) where it is due. 
 
 [RU]
 Спрайты, звуки и код(только созданный DRON12261) могут быть использованы 
