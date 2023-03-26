@@ -1,0 +1,334 @@
+================================================================================
+								 * Credits *
+================================================================================
+
+	 Names in brackets are the names of the things in this mod, most of 
+	  them have been recoloured to keep with the theme I was going for.
+
+	  * A lot of the original, unmodified resources can be found at. *
+	 
+						   http://realm667.com
+				http://forum.zdoom.org/viewtopic.php?t=15080
+			 http://zandronum.com/forum/showthread.php?tid=2700
+
+================================================================================
+
+================================================================================
+							* Copyright / Permissions *
+================================================================================
+[EN]
+The sprites, sounds and code(only by DRON12261) are free to use providing that 
+you use proper credit (please check the CREDITS section) where it is due.
+
+[RU]
+Спрайты, звуки и код(только созданный DRON12261) могут быть использованы 
+свободно при условии, что вы используете надлежащие кредиты (пожалуйста, 
+проверьте раздел CREDITS), где они должны быть использованы.
+
+==========
+DRON12261: Author of Complex Doom Enchanced fork. Check CDECHANGELOG.txt for more.
+==========
+
+=========
+Olphian: New grenade sprites in inventory (IGUPG0.png)
+=========
+
+===============
+Xaser & Quasar: Arachnophyte (Cerebral Sentient) sprites, I modified these by
+				adding the dual chainguns and BFG cannon.
+===============
+
+==========
+Scalliano: Assault Shotgun zombie sprites.
+==========
+
+==========
+Spectator: Beam Revenant (Cadaver) sprites.
+==========
+
+=========================
+ItsNatureToDie & Neoworm: BFG Commando zombie sprites.
+=========================
+
+====================
+Eriance & Maelstrom: Pyro Demon (Hell Duke) sprites.
+====================
+
+======
+Vader: Bruiser Demon sprites.
+======
+
+========================
+Scalliano & Mattbratt11: Stalker (Terror) Soul sprites.
+========================
+
+=======================================
+Jimmy, zrrion the insect, Espi & Ebola: Dark Cardinal sprites.
+=======================================
+
+============
+MagicWazard: Phantasm (Poison) Soul sprites.
+============
+
+===============================================
+Tormentor667, Captain Toenail & Ghastly Dragon: Plasma zombie sprites.
+===============================================
+
+=============
+Tormentor667: Circle Pads
+=============
+
+================================
+Ghastly_dragon, Xim & Logan MTM: Quad Shotgun zombieman sprites.
+================================
+
+=================
+Xim & Chain Mail: Rocket Zombieman sprites.
+=================
+
+=================================
+Captain Toenail & Ghastly_dragon: Beam (Demon Tech) zombieman sprites.
+=================================
+
+======
+Enjay: Weakener (Watcher) and Cacomental sprites.
+======
+
+========
+Lucario: Armor (Large Armor Bonus) Sphere and Life Sphere sprites.
+========
+
+============
+MagicWazard: Vitality Serum (Demonic Fury) sprites.
+============
+
+=========
+Dreadopp: Energy Kit (Armor Booster) sprites.
+=========
+
+=========
+Infirnex: Armor Shard sprites.
+=========
+
+===========
+BloodyAcid: Stim Bonus (Health Booster) sprites.
+===========
+
+===========
+			Cyberdemon stomping sprites. Lost Soul & LS particle/piece sprites.
+SGT.MarkIV:	(Q3 Sarge Skin) Taunt. Blood spray sprites. (Ammo Satchel) Backpack
+			sprites. His method of making CVARs work both client and serverside.		
+===========
+
+=======
+Virtue: Cyber (Noble) Baron sprite set.
+=======
+
+============
+MagicWazard: Pentacle Of Projection (Demon Rune) sprites.
+============
+
+========
+Faerlyn: For allowing me to use the Hard-Doom boss type monster spawners.
+========
+
+===========
+Perkristan: High quality vanilla sounds.
+===========
+
+===============
+Beautiful Doom: Switch sounds, definitions and the smooth map decoration sprites.
+===============
+
+==============
+Zero Invasion: Flaming skull Revenant sprites.
+==============
+
+=======
+	    Assault Rifle V2 base sprites, I made some extra frames, doomified the
+Mike12: muzzle flash and added the underbarrel grenade launcher.
+		Demon Tech rifle sprites.
+=======
+
+========
+XWeapon: Shell box sprites.
+========
+
+=====
+Bane: Quad Barrel Shotgun idle sprites which I modified.
+=====
+
+======
+Jimmy: The big and small fonts. Arachnotron MK2 (Dualachnotron) sprites which
+	   I fixed up a bit.
+======
+
+===================
+				   Rocket Launcher, BFG, Behemoth, Inferno Caco (Bomb Elemental),
+				   Hellforge(?) spider (Fusionite), Minigun, Annihilator, Archon 
+				   Of Hell, Inferno (Poison Elemental), Cybruiser, Demolisher Spider, 
+Eriance/Amuscaria: Devil Imp, Summon (Armageddon) Sphere, Diabolist, Hades Elemental
+				   (Helemental), Death Incarnate (Famine), Terminator and Hellion
+				   (Summoner) sprites. Health Bonus sprites. There may be more of
+				   his sprite work inside but I am really not sure. Quite a few of
+				   these sprite sets have been modified by me but the majority of
+				   the credit goes to him.
+===================
+
+=====
+N30N: Baby Demolisher sprites.
+=====
+
+================
+N30N & tomicapo: Baby Sentient sprites.
+================
+
+====
+Gez: Bull Fiend sprites.
+====
+
+====
+IMX: Mech Fiend sprites.
+====
+
+========
+David G: Super Shotgun zombie and Dark Devil (Phase Imp) sprites.
+		 Baron Of Hell clapping attack sprites.
+========
+
+============
+Marty Kirra: Chaingun zombie sprites.
+============
+
+====================
+Zandronum Community: Lots of suggestions/ideas and playing the mod in general.
+====================
+
+=============
+Team Raycast: Sounds used for the Nazis.
+=============
+
+==========
+Sig Floyd: Some sounds from his Brutal DooM: SE mod.
+==========
+
+=====
+Nash: Giblet sprites & BFG scorch sprites.
+=====
+
+=======
+Daarkon: Green, blue and red armor sprites, modified by me.
+=======
+
+=======
+Synert: The original shared keys wad.
+=======
+
+=========
+Skyrilla: Female marine double handed pistol player skin which Zheg modified
+		  onto the male version.
+=========
+
+==============
+			   Pinky, Caco, Revenant (I modified these) and Arch-Vile (modified 
+osjclatchford: these also) gibbage sprites.
+			   Railgun sprites which were modified by me.
+			   Caco/Pain Elemental/Mastermind giblet sprites.
+==============
+
+=======================
+Mike12 & osjclatchford: Pistol sprites which were modified by me.
+=======================
+
+========
+		 Expressive vanilla HUD mug sheet, I touched and cleaned these up a bit
+Brian_D: as a few of them were dodgy with the Doom palette and had messy pixels.
+		 The godmode faces were done/edited by me.
+========
+
+=====================
+GAA1992/Dr_Cosmobyte: Radsuit sprites. Rocket Box sprites which I modified.
+=====================
+
+==========================
+Amuscaria & osjclatchford: Mine explosion sprites.
+==========================
+
+=================
+Ghastly_dragon 
+Xim
+Boingo_The_Clown: For their spritework on the player weapon selection skins.
+Captain Toenail
+Anthony Cole
+Toke
+=================
+
+===========
+BlueShadow: ACS from their R667 health backpack.
+===========
+
+==================
+Project Brutality: Plasma ready sound and Railgun sound. Possibly some other sounds.
+				   Shotgun box magazine sprite.
+==================
+
+============
+Smooth Doom: Rocket/Plasma/BFG impact and BFG spray sprites.
+============
+
+================
+Captain Toenail: Shield Sphere (Quick Hands) sprites which I modified.
+================
+
+==============================
+DoomNukem & Project Brutality: Revolver sprites. I added a bunch of frames, tweaked 
+							   the style a bit and changed gloves to brown.
+==============================
+
+========
+ibm5155: For HexStartup++ 2.0 which was used to create the startup splash screen.
+========
+
+============
+David G
+Xim
+Mattbratt11: Marauder sprites.
+Craneo
+Scalliano
+Mryayayify
+============
+
+=========
+Dreadopp: Ammo Sphere (Scavenger perk) sprites.
+=========
+
+================
+CaptainToenail: Lifeshield Sphere (Toughness perk) sprites.
+Blue Shadow
+================
+
+================
+Captain Toenail: Damage Sphere (Frenzy perk) sprites.
+================
+
+======================
+Cruduxy Pegg & Breach: Playtesting a ton of versions, ideas and balance tips.
+======================
+
+========
+WaTaKiD: Extensive playtesting & ideas.
+========
+
+============================================================================
+The King of Hate himself Darksyde Phil for his mugshot and comical rageisms.
+============================================================================
+
+===================
+					id Software, Slade, XWE, MSPaint, Photoshop, GIMP, ZDoom
+Additional Credits:	Wiki/Forum, Realm667, Lucas Arts, 3D Realms and anyone else
+					who I've forgotten or do not know.					   
+===================
+
+
+If you see or hear something in here that is yours and your name is not listed, 
+give me a shout and I will add you.

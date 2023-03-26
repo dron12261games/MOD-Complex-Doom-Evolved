@@ -1,0 +1,170 @@
+//==========================================
+// Changes from EVOLVED v1 by DRON12261
+//==========================================
+[EN]
+(+) Fixed bug with incomplete reloading of pistol with an empty clip.
+(+) Fixed grenade and mine throwing with cde_thruweapons enabled.
+(+) Fixed quick grenade throw animations.
+(+) Added animation of change of grenade's type when raising/losing improvement 
+	to grenade.
+(+) Improved grenade and mine on slot 1 as a separate weapon.
+(+) The number of possible starting boxes with weapon upgrades in Pistol Start 
+	mode increased from 3 to 4.
+(+) Added 4 new box types, more powerful loot from which falls with a rarer 
+	chance:
+	- Weapon Box (Orange);
+	- Item Box (Green);
+	- PowerUP Box (Blue);
+	- Perk Box (White);
+(+) Boxes are now highlighted.
+(+) All bullets now fly at the level of the crosshairs, not below. Now there 
+	will be no situations where you can not shoot from a high window or balcony.
+
+[RU]
+(+)	Пофикшен баг с неполной перезарядкой пистолета при пустой обойме.
+(+) Пофикшен бросок гранаты и мины при включенном cde_thruweapons.
+(+) Пофикшены анимации быстрого броска гранаты.
+(+) Добавлены анимации смены типа гранаты при поднятий/потере улучшения для 
+	гранаты.
+(+)	Доведены до ума Граната и Мина на слоте 1 как отдельное оружие.
+(+) Кол-во возможных стартовых ящиков с улучшениями оружия в режиме Pistol Start 
+	увеличено с 3 до 4.
+(+) Добавлено 4 новых видов ящика, более мощный лут из которых выпадает с более 
+	редким шансом:
+	- Ящик с оружием (Оранжевый);
+	- Ящик с предметами (Зеленый);
+	- Ящик со сферами усилений (Синий);
+	- Ящик с перками (Белый).
+(+) Ящики теперь подсвечиваются.
+(+) Теперь все пули летят на уровне перекрестия прицела, а не ниже. Теперь не 
+	будет ситуаций, когда вы не можете стрелять из высокого окна или балкона.
+
+//========================================
+// Changes from ENCHANCED v2 by DRON12261
+//========================================
+[EN]
+(+) Now portable weapon upgrades are not picked up if the player already has 
+	that upgrade installed on the weapon.
+(+) More refactoring of the project.
+(+) Reworked hotkeys and brought to an adequate state (their number is reduced 
+	from 7 to 3):
+	- Alternate fire weapon upgrades are now on the RMB;
+	- Railgun sight is now on RMB;
+	- Quick Grenade Throw and Quick Melee for normal player and terminator now 
+	  on the same key;
+	- Reloading now on the key R (for weapons without alternate fire mode also 
+	  on the RMB).
+(+) Rebalanced revolver (optional, controlled by CVAR).
+(+) Added ability to configure in detail the spawn types of mobs. You can 
+	disable the type of mobs to prevent him spawn in the future on the map. If, 
+	for example, all of the mobs, replacing a single vanilla, will be disabled, 
+	then in place of a vanilla monster just nobody will spawn, while the 
+	softlock on maps on the type MAP07, E1M8, E2M8, E3M8, etc. will not happen.
+(+) Changed the color palette of the menu.
+(+) Reorganized the mod menu.
+(+) Fixed a critical bug with infinite grenade throws.
+(+) Fixed a number of bugs with incorrect display of some localized strings.
+
+[RU]
+(+)	Теперь переносные улучшения оружия не подбираются, если у игрока уже 
+	установлено это улучшение на оружии.
+(+)	Еще больше рефакторинга проекта.
+(+)	Переработаны хоткеи и доведены до адекватного состояния (их число с 7 
+	сократилось до 3):
+	- Альтернативный огонь улучшений оружия теперь на ПКМ;
+	- Прицел рейлгана теперь на ПКМ;
+	- Теперь Быстрый бросок гранаты и Быстрый удар у обычного игрока и 
+	  терминатора на одну и ту же клавишу;
+	- Перезарядка теперь на клавишу R (у оружий без альтернативного режима огня 
+	  также еще и на ПКМ).
+(+)	Перебалансировка револьвера (опционально, контролируется CVAR-ом).
+(+)	Добавлена возможность детально настраивать спавны типов мобов. Можно 
+	отключить тип моба, чтобы предотвратить его спавн в дальнейшем на карте. 
+	Если например все мобы, заменяющие какого-то одного ванильного, будут 
+	отключены, то на месте ванильного монстра просто никто не заспавнится, при 
+	этом софтлока на картах по типу MAP07, E1M8, E2M8, E3M8 и т.д. не 
+	произойдет.
+(+) Изменена цветовая палитра меню.
+(+) Было реорганизовано меню мода.
+(+) Исправлен критический баг с бесконечными бросками гранат.
+(+) Исправлен ряд багов с неверным отображений некоторых локализированных строк.
+
+//========================================
+// Changes from ENCHANCED v1 by DRON12261
+//========================================
+[EN]
+(+) Full refactoring of the project.
+(+) Russian localization (including Zandronum).
+(+) Changed the working of quick mines, grenades, and kicks - now they work with 
+	Any weapon, without the need to write a separate code for each weapon for 
+	quick action.
+(-) Because of the innovation above, the unique animations for throwing a 
+	mine/grenade or kick under each weapon are gone (at least until I figure out 
+	how to implement them in conjunction with that standalone Quick Action 
+	system).
+(+)	Now the grenade flies exactly in the crosshairs.
+(+) Mines no longer explode on each other.
+(+)	Mines no longer bounce off of actors.
+(+) Mines now track their target much more steadily.
+(+)	An upgrade for mines appeared: Stunning mines.
+(+)	The animation of the first revolver pickup can now be skipped.
+(+) The shotgun upgrade animation can now be skipped.
+(+) The upgrade animation for the Assault Shotgun can now be skipped.
+
+[RU]
+(+) Полный рефакторинг проекта.
+(+) Русская локализация (включая zandronum).
+(+) Изменен принцип работы быстрых мины, гранаты, пинка - теперь они работают с 
+	любым оружием, без необходимости отдельного прописывания кода под каждое 
+	оружие для быстрых действий.
+(-) Изза новвоведения выше пропали уникальные анимации для броска мины/гранаты 
+	или пинка под каждое оружие (по крайней мере до тех пор, пока я не придумаю,
+	как их реализовать совместно с той системой автономного Quick Action).
+(+)	Граната теперь летит точно в прицел.
+(+) Мины больше не взрываются друг об друга.
+(+)	Мины теперь не отлетают от акторов.
+(+) Мины теперь гораздо стабильнее отслеживают свою цель.
+(+)	Появился апгрейд для мин: стан-мины.
+(+)	Анимация первого подбора револьвера теперь пропускаема.
+(+) Анимация применения апгрейда для дробовика теперь пропускаема.
+(+) Анимация применения апгрейда для штурмового дробовика теперь пропускаема.
+
+
+//============================================
+// Changes from V27c1 UNOFFICIAL by DRON12261
+//============================================
+
+[EN]
+(-) Removed replacement for commander kin.
+(+) Added cvar Pistol Start Bonus(cd_pistolstartbonus) - at the start in pistol 
+	start mode, the player will also have 100 green armor, 3 ammo satchels and 
+	a certain number (set by cvar below) weapon upgrade boxes.
+(+) Added cvar Pistol Start Bonus Upgrade Boxes Count(cd_pistolstartwubcount) - 
+	number of weapon upgrade boxes spawning in pistol start bonus mode.
+(+) The system of weapon upgrade boxes has been reworked - now you can choose 
+	one of three modes through cvar Weapon Upgrades Style(cd_weaponupgradesstyle):
+	- Old - A random upgrade just falls out of the box;
+	- Checking the player's weapons - Only the weapons that the player has are 
+	  dropped from the box;
+	- Portable upgrades - A random upgrade just drops out of the box, but now 
+	  it is a portable active inventory item.
+(+)	Also, now all gameplay cvars are saved in the config (I'm tired of 
+	re-plugging them after each restart).
+	
+[RU]
+(-) Убран заменитель для командер кина.
+(+) Добавлен квар Pistol Start Bonus(cd_pistolstartbonus) - на старте в режиме 
+	pistol start у игрока также будет 100 зеленой брони, 3 сумки с патронами и 
+	определенное кол-во(задается кваром ниже) ящиков улучшения оружия.
+(+) Добавлен квар Pistol Start Bonus Upgrade Boxes Count(cd_pistolstartwubcount) 
+	- количество спавнящихся ящиков улучшения оружия в режиме pistol start 
+	bonus.
+(+) Переработана система ящиков улучшения оружия - теперь через квар Weapon 
+	Upgrades Style(cd_weaponupgradesstyle) можно выбрать один из трех режимов:
+	- Старый - Из ящика просто выпадает рандомный апгрейд;
+	- Проверка оружия игрока - Из ящика выпадают улучшения только на те оружия, 
+	  которые есть у игрока;
+	- Переносные улучшения - Из ящика просто выпадает рандомный апгрейд, но 
+	  теперь это переносимый активный предмет инвенторя.
+(+) Также теперь все геймплейные квары сохраняются в конфиг (мне надоело их 
+	после каждого перезапуска перевтыкать).
