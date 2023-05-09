@@ -1,5 +1,5 @@
 # Complex Doom Evolved
-![LOGO](https://i.ibb.co/fXbqYR6/MDOOMHD.png)
+![LOGO](./screens/1.png)
 
 # STATUS: 🏁WORK IN PROGRESS
 
@@ -64,5 +64,5 @@ To run the patch, load it after the main mod and type in the console `language r
 - And maybe something else...
 
 # Screenshots:
-![Screen1](https://i.ibb.co/w672fzC/Screenshot-Doom-20230326-142853.png)
-![Screen2](https://i.ibb.co/j3C5Nr9/Screenshot-Doom-20230326-142942.png)
+![Screen1](./screens/2.png)
+![Screen2](./screens/3.png)
