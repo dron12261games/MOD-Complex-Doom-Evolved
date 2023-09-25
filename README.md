@@ -1,7 +1,7 @@
 # Complex Doom Evolved
 ![LOGO](./screens/1.png)
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: 🧊FROZEN
 
 ### ⚠️WARNING!⚠️ This is a fork, not the original mod I built. The original (Complex Doom v27b2), authored by Daedalus, can be found [here](https://forum.zdoom.org/viewtopic.php?t=58535).
 ### ⚠️WARNING!⚠️The fork is still in development, so it may behave erratically at times. Keep this in mind.
