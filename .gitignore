@@ -1,2 +1,3 @@
 *.bak
 *.backup[0-9]
+*.autosave[0-9]
